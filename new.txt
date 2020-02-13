@@ -1,5 +1,9 @@
-new dajdalk
-adajac
-scdac
-if()
+NEW dajdalk
+  adajac
+  scdac
+  if()
 {}
+if () {
+  return abstract abstract dadacd
+  
+}
